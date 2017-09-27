@@ -16,3 +16,4 @@ while (1==1){
     return 0;
 }
 
+\\Currently crashes on non integer input.
